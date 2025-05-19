@@ -1,0 +1,76 @@
+/* === Entire App Background === */
+.stApp {
+    background: linear-gradient(to right,#d0ead1);
+    font-family: 'Segoe UI', sans-serif;
+}
+
+/* === Main Title === */
+h1 {
+    text-align: center;
+    color: #b71c50;
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 0.2em;
+}
+
+/* === Subtitle === */
+.subtitle {
+    text-align: center;
+    font-size: 1.2rem;
+    color: #5f5f5f;
+    margin-bottom: 2em;
+}
+
+/* === Text Area Styling === */
+textarea {
+    background-color: #fff7fb !important;
+    border: 1px solid #e3b5c8 !important;
+    border-radius: 10px !important;
+    padding: 10px !important;
+    font-size: 1rem !important;
+}
+
+/* === File uploader styling === */
+.stFileUploader {
+    background-color: #fdf3f7;
+    border: 2px dashed #c2185b !important;
+    border-radius: 12px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+/* === Summary Output Box === */
+.summary-box {
+    background-color: #fff0f7;
+    border: 1px solid #e6cce1;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 20px;
+    font-size: 1rem;
+    color: #3e3e3e;
+    line-height: 1.6;
+}
+
+/* === Button Styles === */
+button[kind="primary"] {
+    background-color: #d81b60 !important;
+    color: white !important;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 0.5rem 1.2rem;
+    font-size: 1rem;
+    margin-top: 10px;
+}
+
+/* === Radio Button Text === */
+.stRadio > label {
+    font-weight: 500;
+    color: #333;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    background-color: #e0e0e0;
+    margin-top: 40px;
+}
