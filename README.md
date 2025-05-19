@@ -17,7 +17,7 @@
 # APP PREVIEW:
 
 ![OUTPUT 1](https://github.com/user-attachments/assets/dbd4dc49-2eef-477d-b055-08c8cd4054d0)
-![OUPUT 2](https://github.com/user-attachments/assets/b5707a07-31dc-4a63-a92d-0c26ffbedd20)
+![OUTPUT 2](https://github.com/user-attachments/assets/c59ef065-dc9f-4d74-88af-0eae5c935aff)
 ![OUTPUT 3](https://github.com/user-attachments/assets/a8a96141-eb40-4ea2-ad94-6199ef500bdc)
 
 ---
