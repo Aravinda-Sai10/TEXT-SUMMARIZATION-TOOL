@@ -1,5 +1,19 @@
-# TEXT SUMMARIZER
-                                                                                    
+# TEXT SUMMARIZATION TOOL
+
+*COMPANY* : CODTECH IT SOLUTIONS
+
+*NAME* : ARVA ARAVINDA SAI
+
+*INTERN ID*: CODF219
+
+*DOMAIN*:ARTIFICIAL INTELLIGENCE
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTHOSH
+
+
+# TEXT SUMMARIZER                                                               
   A simple and elegant Streamlit web app that transforms lengthy text into concise summaries using file upload or manual input.
   Choose between a quick highlight-style summary or a deeper, context-aware summary approach.
 
