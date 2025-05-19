@@ -42,20 +42,24 @@
 1. Clone this repo
 
    git clone https://github.com/Aravinda-Sai10/TEXT-SUMMARIZATION-TOOL.git
+   
    cd TEXT-SUMMARIZATION-TOOL
    
 3. Create a virtual environment:
-   
+
    python -m venv venv
-   # Activate
+   
+   #Activate
+   
    venv\Scripts\activate   # Windows
+   
    source venv/bin/activate  # macOS/Linux
    
-4. Install dependencies:
+5. Install dependencies:
    
    pip install -r requirements.txt
 
-5. Run the Streamlit app:
+6. Run the Streamlit app:
    
    streamlit run app.py
 
@@ -81,15 +85,10 @@ text-summarizer/
 # USES:
 
 - **Academic Work**:Quickly summarize research papers, notes, or long articles.
-- 
 - **Learning**: Understand key ideas from textbooks or PDFs without reading everything.
-- 
-- **Business**: Condense long reports, proposals, or meeting transcripts into clear summaries.
-
+- **Business**: Condense long reports, proposals, or meeting transcripts into clear summaries
 - **Content Creation**: Extract main points from drafts or reference materials.
-- 
 - **File Review**: Summarize uploaded DOCX, TXT, or PDF files in one click.
-- 
 - **Daily Productivity**: Save time by reading summarized content instead of full documents.
 
 # FUTURE ENHANCEMENTS:
