@@ -1,0 +1,27 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# Mac and system files
+.DS_Store
+
+# Streamlit-specific
+.streamlit/config.toml
+
+# Log files
+*.log
+
+# Python environment files
+*.env
+.env
+
+# Output folders 
+screenshorts/
