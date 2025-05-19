@@ -1,10 +1,10 @@
-/* === Entire App Background === */
+/* === App Background Style === */
 .stApp {
     background: linear-gradient(to right,#d0ead1);
     font-family: 'Segoe UI', sans-serif;
 }
 
-/* === Main Title === */
+/* === MainTitle === */
 h1 {
     text-align: center;
     color: #b71c50;
