@@ -27,8 +27,8 @@
 # HOW TO RUN LOCALLY:
 1. Clone this repo
 
-   git clone https://github.com/your-username/text-summarizer.git
-   cd text-summarizer
+   git clone https://github.com/Aravinda-Sai10/Text-Summarizer.git
+   cd Text-Summarizer
 
 2. Create a virtual environment:
    
