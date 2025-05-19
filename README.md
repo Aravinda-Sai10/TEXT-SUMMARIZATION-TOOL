@@ -15,8 +15,7 @@
 ---
 
 # APP PREVIEW:
-
-![APP PREVIEW](screenshots/output.jpg)
+![APP PREVIEW](screenshots/OUTPUT 1.png)
 
 ---
 
