@@ -6,7 +6,7 @@
 
 *INTERN ID*: CODF219
 
-*DOMAIN*:ARTIFICIAL INTELLIGENCE
+*DOMAIN*: ARTIFICIAL INTELLIGENCE
 
 *DURATION*: 4 WEEKS
 
@@ -41,21 +41,21 @@
 # HOW TO RUN LOCALLY:
 1. Clone this repo
 
-   git clone https://github.com/Aravinda-Sai10/Text-Summarizer.git
-   cd Text-Summarizer
-
-2. Create a virtual environment:
+   git clone https://github.com/Aravinda-Sai10/TEXT-SUMMARIZATION-TOOL.git
+   cd TEXT-SUMMARIZATION-TOOL
+   
+3. Create a virtual environment:
    
    python -m venv venv
    # Activate
    venv\Scripts\activate   # Windows
    source venv/bin/activate  # macOS/Linux
    
-3. Install dependencies:
+4. Install dependencies:
    
    pip install -r requirements.txt
 
-4. Run the Streamlit app:
+5. Run the Streamlit app:
    
    streamlit run app.py
 
@@ -64,22 +64,32 @@
 # FILE STRUCTURE:
 
 text-summarizer/
-│
+
 ├── app.py                  # Main Streamlit app
+
 ├── style.css               # Custom styling
+
 ├── requirements.txt        # Required Python packages
+
 ├── README.md               # documentation
+
 └── screenshots/
+
     └── app_preview.png     # App interface image
     
 ---
 # USES:
 
 - **Academic Work**:Quickly summarize research papers, notes, or long articles.
+- 
 - **Learning**: Understand key ideas from textbooks or PDFs without reading everything.
+- 
 - **Business**: Condense long reports, proposals, or meeting transcripts into clear summaries.
+
 - **Content Creation**: Extract main points from drafts or reference materials.
+- 
 - **File Review**: Summarize uploaded DOCX, TXT, or PDF files in one click.
+- 
 - **Daily Productivity**: Save time by reading summarized content instead of full documents.
 
 # FUTURE ENHANCEMENTS:
